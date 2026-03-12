@@ -68,6 +68,31 @@ Network-Threat-Detection/
 └── FULL DOCUMENT.docx
 ```
 
+## Dataset Information
+
+The dataset used for this project is included in a compressed **ZIP file** due to file size limitations on GitHub.
+
+### How to Use the Dataset
+
+1. Download the dataset ZIP file from this repository.
+2. Extract the ZIP file to the project folder.
+3. Ensure the extracted `.csv` file is placed in the correct directory before running the notebooks or the Django application.
+
+### Dataset File
+
+* `cyber_dataset.zip` → Contains the original dataset `cyber1.csv`.
+
+This dataset is used in the following notebooks:
+
+* M1-DATA PREPROCESSING.ipynb
+* M2-DATA VISUALIZATION.ipynb
+* M3-BNC.ipynb
+* M4-ADC.ipynb
+* M5-RFC.ipynb
+
+The dataset is required for training and analysis steps in the project.
+
+
 ---
 
 ## Technologies Used
