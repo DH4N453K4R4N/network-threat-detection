@@ -81,7 +81,7 @@ Network-Threat-Detection/
 
 The original Basic_report.html file is too large to upload directly to GitHub (338 MB exceeds the 100 MB limit).
 
-To include it in the repository, it has been compressed as Basic_report.zip.
+To include it in the repository, it has been compressed as ```Basic_report.zip```.
 
 ## How to Use the Report
 
