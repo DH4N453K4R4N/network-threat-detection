@@ -68,6 +68,8 @@ Network-Threat-Detection/
 └── FULL DOCUMENT.docx
 ```
 
+---
+
 Note About the Basic Report
 
 The original Basic_report.html file is too large to upload directly to GitHub (338 MB exceeds the 100 MB limit).
@@ -87,6 +89,8 @@ Unzip the file:
 unzip Basic_report.zip -d Deploy/users/templates/app/
 
 Once unzipped, your program can access and use Basic_report.html as intended.
+
+---
 
 ---
 
