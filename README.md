@@ -119,7 +119,7 @@ unzip Basic_report.zip -d Deploy/users/templates/app/
 Clone the repository
 
 ```
-git clone https://github.com/your-username/network-threat-detection.git
+git clone https://github.com/DH4N453K4R4N/network-threat-detection.git
 ```
 
 Navigate to the project folder
